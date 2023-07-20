@@ -1,6 +1,6 @@
 - 👋 Bonjourno, I’m @Sambonic
-- 👀 I’m interested in the fields of bioinformatics and computational neuroscience
-- 🌱 I’m currently learning from scratch the foundations of AI
+- 👀 I’m interested in the fields of data science and bioinformatics
+- 🌱 I’m currently learning from scratch the foundations of AI and data science
 - 💞️ I’m looking to collaborate on project involving data analysis
 - 📫 Reach me [here](https://www.linkedin.com/in/sameh-m-96a935264/)
 

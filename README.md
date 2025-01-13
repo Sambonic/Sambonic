@@ -22,7 +22,6 @@
 
 
 <hr style="height: .5px;">
-<hr style="height: .5px;">
 
 
 ### About Me:
@@ -31,7 +30,7 @@
 - ⚡ Fun fact: I love **creating projects, digital drawing, and writing**
 
 <hr style="height: .5px;">
-<hr style="height: .5px;">
+
 
 ### Languages and Tools:
 <p align="center"> 
@@ -62,7 +61,6 @@
 </p>
 
 <hr style="height: .5px;">
-<hr style="height: .5px;">
 
 ### GitHub Stats:
 <div align="center">
@@ -71,14 +69,12 @@
 </div>
 
 <hr style="height: .5px;">
-<hr style="height: .5px;">
 
 ### Streak Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sambonic&theme=dark" alt="Sambonic" />
 </p>
 
-<hr style="height: .5px;">
 <hr style="height: .5px;">
 
 ### Featured Projects:
@@ -91,7 +87,6 @@
   </a>
 </div>
 
-<hr style="height: .5px;">
 <hr style="height: .5px;">
 
 ### Random Dev Quote:

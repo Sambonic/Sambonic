@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=Sambonic&label=Profile%20views&color=0e75b6&style=flat" alt="Sambonic" />
 </p>
 
-<hr style="height: .5px;">
 
 ### 📫 Let's Connect:  
 <p align="center">
@@ -20,8 +19,6 @@
   </a>
 </p>
 
-
-<hr style="height: .5px;">
 
 
 ### About Me:

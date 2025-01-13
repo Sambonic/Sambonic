@@ -76,10 +76,10 @@
 ### Featured Projects:
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <a href="https://github.com/Sambonic/Scrapedin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sambonic&repo=Scrapedin&theme=radical" alt="Scrapedin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sambonic&repo=Scrapedin&theme=dark" alt="Scrapedin">
   </a>
   <a href="https://github.com/Sambonic/krusty-krabs-RL-navigator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sambonic&repo=krusty-krabs-RL-navigator&theme=radical" alt="Krusty Krabs RL Navigator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sambonic&repo=krusty-krabs-RL-navigator&theme=dark" alt="Krusty Krabs RL Navigator">
   </a>
 </div>
 

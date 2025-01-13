@@ -20,12 +20,10 @@
 </p>
 
 
-
 ### About Me:
 - 🌱 I’m currently learning **Advanced Python, React, and Data Science**
 - 👯 I’m looking to collaborate on **Full-stack and Data Science projects**
 - ⚡ Fun fact: I love **creating projects, digital drawing, and writing**
-
 
 
 ### Languages and Tools:
@@ -57,20 +55,11 @@
 </p>
 
 
-
 ### GitHub Stats:
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sambonic&theme=react&show_icons=true&include_all_commits=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambonic&theme=react&layout=compact" />
 </div>
-
-
-
-### Streak Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sambonic&theme=dark" alt="Sambonic" />
-</p>
-
 
 
 ### Featured Projects:
@@ -82,7 +71,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sambonic&repo=krusty-krabs-RL-navigator&theme=dark" alt="Krusty Krabs RL Navigator">
   </a>
 </div>
-
 
 
 ### Random Dev Quote:

@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Python and Front-end developer 🚀</h3>
 
 <p align="center">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sambonic&label=Profile%20views&color=0e75b6&style=flat" alt="Sambonic" />
+  </p>
   <a href="https://github.com/Sambonic?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
   </a>
@@ -91,12 +94,6 @@
   <a href="https://www.linkedin.com/in/sameh-m-96a935264/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sambonic&label=Profile%20views&color=0e75b6&style=flat" alt="Sambonic" />
 </p>
 
 ---

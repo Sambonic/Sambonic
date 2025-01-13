@@ -27,14 +27,15 @@
   </a>
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Sambonic&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambonic&theme=react&layout=compact" />
-</p>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sambonic&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambonic&theme=react&layout=compact" />
+</div>
 
 ------
 
 [Sambonic](https://github.com/Sambonic)
+
 [Credit](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/BrantLauro.md)
 <!---
 Sambonic/Sambonic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

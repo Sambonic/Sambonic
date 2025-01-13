@@ -29,7 +29,6 @@
 - 👯 I’m looking to collaborate on **Full-stack and Data Science projects**
 - ⚡ Fun fact: I love **creating projects, digital drawing, and writing**
 
-<hr style="height: .5px;">
 
 
 ### Languages and Tools:
@@ -60,7 +59,7 @@
   </a>
 </p>
 
-<hr style="height: .5px;">
+
 
 ### GitHub Stats:
 <div align="center">
@@ -68,14 +67,14 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambonic&theme=react&layout=compact" />
 </div>
 
-<hr style="height: .5px;">
+
 
 ### Streak Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sambonic&theme=dark" alt="Sambonic" />
 </p>
 
-<hr style="height: .5px;">
+
 
 ### Featured Projects:
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
@@ -87,17 +86,13 @@
   </a>
 </div>
 
-<hr style="height: .5px;">
+
 
 ### Random Dev Quote:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </p>
 
-<hr style="height: .5px;">
-
-
-[![Sambonic's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sambonic&theme=react-dark)](https://github.com/Sambonic)
 
 ---
 

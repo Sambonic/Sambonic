@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Sam <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-end developer 🚀</h3>
+<h1 align="center">Hola, I'm Sam <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Python Developer In The Making</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sambonic&label=Profile%20views&color=0e75b6&style=flat" alt="Sambonic" />
 </p>
 
 
-### 📫 Let's Connect:  
+### Let's Connect:  
 <p align="center">
   <a href="https://github.com/Sambonic?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
@@ -21,9 +21,9 @@
 
 
 ### About Me:
-- 🌱 I’m currently learning **Advanced Python, React, and Data Science**
-- 👯 I’m looking to collaborate on **Full-stack and Data Science projects**
-- ⚡ Fun fact: I love **creating projects, digital drawing, and writing**
+- 🌱 I’m currently learning **Advanced Python, DevOps, and MlOps**
+- 👯 I’m looking to collaborate on **Automation projects**
+- ⚡ Fun fact: I love **reading neuroscience articles, digital drawing, watching youtube and writing fiction**
 
 
 ### Languages and Tools:
@@ -78,9 +78,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </p>
 
-
----
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/Sambonic">Sam</a>
-</p>
